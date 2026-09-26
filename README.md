@@ -106,7 +106,7 @@ FIFA datasets contain large volumes of historical match data, but extracting use
 
 ## Author
 
-Kamran Khan Orakzai
+Varun Chaudhari
 Data Analyst | Data Science | Mlops
 
 ---
